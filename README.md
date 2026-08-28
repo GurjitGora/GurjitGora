@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=2EA0FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Gurjit+%F0%9F%91%8B;Mobile+%26+Cross-Platform+Developer;Swift+%C2%B7+Flutter+%C2%B7+TypeScript+%C2%B7+C%23" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=2EA0FF&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Gurjit+%F0%9F%91%8B;Full+Stack+Software+Engineer;AWS+%C2%B7+Microservices+%C2%B7+Distributed+Systems+%C2%B7+AI" alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gurjit-singh-46993078/)
 ![Profile views](https://komarev.com/ghpvc/?username=GurjitGora&color=2EA0FF&style=for-the-badge&label=PROFILE+VIEWS)
@@ -11,10 +11,20 @@
 
 ### 👋 About me
 
-- 📱 I build **mobile and cross-platform apps** — native iOS with Swift/SwiftUI, and cross-platform with Flutter/Dart
-- 🛠️ I also ship **developer tooling** — like [`pkg-cleaner`](https://github.com/GurjitGora/PKG-Cleaner), a terminal UI for auditing and uninstalling macOS package-manager and AI-tooling clutter
-- 🌱 Comfortable across the stack: Swift, Dart, TypeScript/Node.js, C#
+- 💼 Full Stack Software Engineer at **Sportsbet / FanDuel**, Melbourne, Australia
+- 🏗️ I build web, mobile, and cloud-based applications across the full SDLC — from UI and backend services to deploying and running them in production
+- ☁️ **AWS Certified Solutions Architect – Associate** — I design scalable, secure, distributed systems
+- 🔀 Working with microservices, event-driven architectures (Kafka, RabbitMQ, Apache Pulsar), and REST/GraphQL APIs
+- 🛠️ I also ship developer tooling on the side — like [`pkg-cleaner`](https://github.com/GurjitGora/PKG-Cleaner)
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/gurjit-singh-46993078/)
+
+---
+
+### 🎓 Certifications
+
+![AWS Solutions Architect](https://img.shields.io/badge/AWS%20Certified-Solutions%20Architect%20Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS Cloud Practitioner](https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Agentic AI Foundations](https://img.shields.io/badge/Agentic%20AI-Foundations-2EA0FF?style=for-the-badge)
 
 ---
 
@@ -30,14 +40,31 @@ A terminal UI (TUI) to audit and uninstall Homebrew/npm/gem/pip/pipx/SDKMAN pack
 
 ### 🧰 Tech stack
 
+**Languages & Frameworks**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
-![SwiftUI](https://img.shields.io/badge/SwiftUI-000000?style=for-the-badge&logo=swift&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+**Cloud & Infrastructure**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Amazon ECS](https://img.shields.io/badge/Amazon%20ECS-FF9900?style=for-the-badge&logo=amazonecs&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+**Distributed Systems & APIs**
+
+![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Apache Pulsar](https://img.shields.io/badge/Apache%20Pulsar-188FFF?style=for-the-badge&logo=apachepulsar&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
 ---
 
