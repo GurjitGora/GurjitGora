@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=2EA0FF&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Gurjit+%F0%9F%91%8B;Full+Stack+Software+Engineer;AWS+%C2%B7+Microservices+%C2%B7+Distributed+Systems+%C2%B7+AI" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2EA0FF&center=true&vCenter=true&width=800&height=60&lines=Hi+there%2C+I'm+Gurjit+%F0%9F%91%8B;Full+Stack+Software+Engineer;AWS+%C2%B7+Microservices+%C2%B7+Distributed+Systems+%C2%B7+AI" alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gurjit-singh-46993078/)
 ![Profile views](https://komarev.com/ghpvc/?username=GurjitGora&color=2EA0FF&style=for-the-badge&label=PROFILE+VIEWS)
