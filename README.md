@@ -28,13 +28,17 @@
 
 ---
 
-### 🚀 Featured project
+### 🚀 Featured projects
 
 <a href="https://github.com/GurjitGora/PKG-Cleaner">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=GurjitGora&repo=PKG-Cleaner&theme=default&hide_border=true" alt="pkg-cleaner repo card" />
 </a>
+<a href="https://github.com/GurjitGora/resume-optimizer">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GurjitGora&repo=resume-optimizer&theme=default&hide_border=true" alt="resume-optimizer repo card" />
+</a>
 
-A terminal UI (TUI) to audit and uninstall Homebrew/npm/gem/pip/pipx/SDKMAN packages, plus Claude Code, Cursor, and GitHub Copilot skills, agents, and MCP servers — published on [npm](https://www.npmjs.com/package/pkg-cleaner).
+- **[pkg-cleaner](https://github.com/GurjitGora/PKG-Cleaner)** — a terminal UI (TUI) to audit and uninstall Homebrew/npm/gem/pip/pipx/SDKMAN packages, plus Claude Code, Cursor, and GitHub Copilot skills, agents, and MCP servers. Published on [npm](https://www.npmjs.com/package/pkg-cleaner).
+- **[resume-optimizer](https://github.com/GurjitGora/resume-optimizer)** — an AI resume tailor that rewrites your resume to match any job description using Claude and shows a live ATS score, aiming for 90+. React + Vite + TypeScript, fully client-side. [Live demo](https://gurjitgora.github.io/resume-optimizer/).
 
 ---
 
